@@ -1,0 +1,28 @@
+<fetch version="1.0" output-format="xml-platform" mapping="logical" distinct="false">
+  <entity name="new_unit">
+    <attribute name="new_name" />
+    <order attribute="new_name" descending="false" />
+    <filter type="and">
+      <condition attribute="statecode" operator="eq" value="0" />
+      <condition attribute="new_status" operator="eq" value="1" />
+      <condition attribute="ohd_destination" operator="eq" uiname="Owest" uitype="ohd_destination" value="{92BEBBFC-65DB-E811-A84D-000D3A2B2BA3}" />
+      <condition attribute="new_type" operator="in">
+        <value>100000003</value>
+        <value>100000005</value>
+        <value>100000004</value>
+        <value>127990000</value>
+      </condition>
+    </filter>
+    <attribute name="new_unitprice" />
+    <attribute name="new_totalsareasqm" />
+    <attribute name="new_numberofbedrooms" />
+    <attribute name="new_gardenareasqm" />
+    <attribute name="ohd_designtype" />
+    <attribute name="ohd_builduparea" />
+    <attribute name="ldv_basementprice" />
+    <link-entity alias="a_8cbdd1ab15f5e711a832000d3a2b2ba3" name="new_building" from="new_buildingid" to="new_parentbuilding" link-type="outer" visible="false">
+      <attribute name="new_numberoffloors" />
+    </link-entity>
+    <attribute name="new_unitid" />
+  </entity>
+</fetch>

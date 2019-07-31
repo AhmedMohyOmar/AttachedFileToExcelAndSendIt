@@ -1,0 +1,17 @@
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\obj\Debug\Linkdev.MOE.Test.Moq.csprojResolveAssemblyReference.cache
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Linkdev.MOE.Test.Madonna.exe.config
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Linkdev.MOE.Test.Madonna.exe
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Linkdev.MOE.Test.Madonna.pdb
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Linkdev.OHDREM.CustomStep.AttachFileToEmail.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\Linkdev.OHDREM.CustomStep.AttachFileToEmail.pdb
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\obj\Debug\Linkdev.MOE.Test.Madonna.exe
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\obj\Debug\Linkdev.MOE.Test.Madonna.pdb
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\EPPlus.dll
+D:\Projects\Linkdev.MOE.Test.Madonna\Linkdev.MOE.Test.Madonna\bin\Debug\EPPlus.xml
